@@ -1,4 +1,4 @@
-# Programs and absolute paths
+# Position elsewhere
 The challenge asks you to open the terminal in the pwn.college DOJO and invoke the program which lies in a directory that we are not presently in and invoke program from there.
 ## My Solve
 **Flag:** 'pwn.college{MbYBSSNqMn_x8ZTP0GAVbXFLLrR.QX3QTN0wSOxkjNzEzW}'
