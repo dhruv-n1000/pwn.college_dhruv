@@ -1,4 +1,4 @@
-# Cating Absolute Paths.
+# Catting Absolute Paths.
 The challenge requires us to use the 'cat' command to read out files. In this case the flag for the challenge would be stored in a file called flag which we have to access using the entire absolute path.
 ## My Solve
 **Flag:** 'pwn.college{catCnUnA8odCuvAMxGWIImO0ch0.QX5ETO0wSOxkjNzEzW}'
