@@ -1,4 +1,4 @@
-# Catting Absolute Paths.
+# More Catting Practice.
 The challenge requires us to use the 'cat' command to read out files. In this case the flag for the challenge would be stored in a file called flag which we have to access using the entire absolute path.
 As opposed to the previous challenge, here the path was provided in the terminal itself.
 ## My Solve
