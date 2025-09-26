@@ -1,4 +1,4 @@
-# Listing Files
+# Touching Files
 The challenge requires us to use the 'touch' command to create an empty file in a directory.
 ## My Solve
 **Flag:** 'pwn.college{ASdGkuhM0j5JGbg88p2s1Nu-v05.QXwMDO0wSOxkjNzEzW}'
