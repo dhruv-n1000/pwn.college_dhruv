@@ -1,7 +1,7 @@
 # Starting Backgrounded Processes
 We are to access the exit code of /challenge/get-code which as an argument to /challenge/submit-code will give the flag
 ## My Solve
-**Flag:** 'pwn.college{cyQn82WY8fJTXhjYcOxhLtUcMA2.QX5QDO0wSOxkjNzEzW}'
+**Flag:** 'pwn.college{w2L9cKgJE0_di2apqcO0E7IPapj.QX5YDO1wSOxkjNzEzW}'
 
 I first ran the process /challenge.get-code which gave an error. On entering echo '$?' where '$' is used to access the value
 of the variable '?' which is the variable for the exit code of the last terminated process. This gave me the exit code for the
