@@ -2,7 +2,7 @@
 This challenge requires us to use 'tmux' to create terminal multiplexer.
 
 ### Solve
-**Flag:** 'pwn.college{Io6j-LnpYLBgjJXTDLnBXMyErNh.0VN4IDOxwSOxkjNzEzW}'
+**Flag:** 'pwn.college{8XOVHgIyVQ9t5ee6GPs49kp-iuV.0VO4IDOxwSOxkjNzEzW}'
 
 We had to use the 'tmux' command make multiple terminals by multiplexing, then we had to detach from it by using 'Ctrl-B + d'. Then we had to run /challenge/run which would 
 put the flag in the tmux terminal, then we had to reatttach it by using 'tmux attach' and the terminal would have the flag.
