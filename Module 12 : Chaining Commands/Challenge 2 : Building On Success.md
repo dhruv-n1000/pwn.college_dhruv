@@ -1,7 +1,7 @@
 ## Building On Success
 This challenge requires us to use the '&&' to chain 2 different commands.
 ## My Solve
-**Flag:** 'pwn.college{kWkLkkOSCJxbFlKpDwNeOLroz8B.QX1UDO0wSOxkjNzEzW}'
+**Flag:** 'pwn.college{sE1AVv1k1dz9VohnVjJMjPzKwPp.0lM0MDOxwSOxkjNzEzW}'
 
 In this challenge, we simply had to use '&&' to chain 2 different executions. Here only if the first command is successful (exits with code 0), the second command is executed
 otherwise no.
