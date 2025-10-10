@@ -1,4 +1,4 @@
-## Launching Screen
+## Detaching And Attaching 
 This challenge requires us to use detach from a particular screen and then reattach.
 
 ### Solve
